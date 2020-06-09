@@ -4,6 +4,8 @@ The winner of each round gets both cards.
 This continues until there are no more cards left.
 At the end of the game, the person with the most cards wins.
 
+At the end of each game, the program shows the top 5 players.
+
 There are only two logins at the moment.
 Player 1:
 username: David
